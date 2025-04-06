@@ -1,0 +1,156 @@
+{
+    "AI": [
+      {
+        "level": 1,
+        "task": "Learn Python basics and implement simple if-else logic for decision making."
+      },
+      {
+        "level": 2,
+        "task": "Implement a basic rule-based chatbot using Python."
+      },
+      {
+        "level": 3,
+        "task": "Train a basic neural network using a framework like TensorFlow or PyTorch on MNIST dataset."
+      },
+      {
+        "level": 4,
+        "task": "Build a simple AI model that performs sentiment analysis using pre-trained embeddings."
+      },
+      {
+        "level": 5,
+        "task": "Design and deploy a Transformer-based AI model (like BERT) for text classification on custom data."
+      }
+    ],
+    "ML": [
+      {
+        "level": 1,
+        "task": "Understand and implement linear regression from scratch."
+      },
+      {
+        "level": 2,
+        "task": "Train and evaluate models using scikit-learn (e.g., decision trees, KNN)."
+      },
+      {
+        "level": 3,
+        "task": "Work on real-world datasets (e.g., Titanic, Housing) and perform data preprocessing and feature engineering."
+      },
+      {
+        "level": 4,
+        "task": "Optimize model performance using cross-validation and hyperparameter tuning."
+      },
+      {
+        "level": 5,
+        "task": "Build and deploy an end-to-end ML pipeline with model versioning and CI/CD."
+      }
+    ],
+    "DS": [
+      {
+        "level": 1,
+        "task": "Learn basic statistics and data visualization with Python (Matplotlib, Seaborn)."
+      },
+      {
+        "level": 2,
+        "task": "Clean and preprocess datasets using Pandas and NumPy."
+      },
+      {
+        "level": 3,
+        "task": "Perform exploratory data analysis (EDA) and generate insights from real-world data."
+      },
+      {
+        "level": 4,
+        "task": "Create dashboards and interactive reports using tools like Tableau or Power BI."
+      },
+      {
+        "level": 5,
+        "task": "Design a data pipeline and implement it using Apache Airflow or similar tools."
+      }
+    ],
+    "Cloud Computing": [
+      {
+        "level": 1,
+        "task": "Understand basics of cloud platforms (AWS, Azure, GCP) and create a free-tier account."
+      },
+      {
+        "level": 2,
+        "task": "Deploy a static website using AWS S3 or Azure Blob Storage."
+      },
+      {
+        "level": 3,
+        "task": "Set up and configure a virtual machine using EC2 or similar."
+      },
+      {
+        "level": 4,
+        "task": "Use cloud services to host a web application with a managed database and monitoring."
+      },
+      {
+        "level": 5,
+        "task": "Design and implement a scalable microservices architecture using Kubernetes and CI/CD pipelines."
+      }
+    ],
+    "Web Development": [
+      {
+        "level": 1,
+        "task": "Build a basic HTML/CSS personal webpage."
+      },
+      {
+        "level": 2,
+        "task": "Create a responsive website with JavaScript interactions."
+      },
+      {
+        "level": 3,
+        "task": "Build a CRUD application using a modern front-end framework (React, Vue)."
+      },
+      {
+        "level": 4,
+        "task": "Integrate the front end with a REST API and implement authentication."
+      },
+      {
+        "level": 5,
+        "task": "Develop and deploy a full-stack application with scalable backend and frontend using Docker and CI/CD."
+      }
+    ],
+    "App Development": [
+      {
+        "level": 1,
+        "task": "Set up the development environment and build a simple Hello World mobile app."
+      },
+      {
+        "level": 2,
+        "task": "Create a multi-screen app with navigation and basic state management."
+      },
+      {
+        "level": 3,
+        "task": "Consume an external API to display dynamic data (e.g., weather or news app)."
+      },
+      {
+        "level": 4,
+        "task": "Implement user authentication and local storage in the app."
+      },
+      {
+        "level": 5,
+        "task": "Build and publish a production-ready cross-platform app with analytics and push notifications."
+      }
+    ],
+    "Project Management": [
+      {
+        "level": 1,
+        "task": "Understand basics of Agile and Scrum. Participate in daily standups."
+      },
+      {
+        "level": 2,
+        "task": "Create a simple Gantt chart or Kanban board for a small project."
+      },
+      {
+        "level": 3,
+        "task": "Manage sprints and track progress using tools like Jira or Trello."
+      },
+      {
+        "level": 4,
+        "task": "Handle resource planning, risk assessment, and communication with stakeholders."
+      },
+      {
+        "level": 5,
+        "task": "Lead a cross-functional team on a full lifecycle project and deliver reports to executives."
+      }
+    ]
+  }
