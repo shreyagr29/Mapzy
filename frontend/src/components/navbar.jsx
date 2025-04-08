@@ -113,14 +113,14 @@ export default function Navbar() {
   }, []);
 
   return (
-    <nav style={styles.nav}>
+    <nav style={styles.nav} className='bg-gray-900'>
       <div style={styles.container}>
         <div style={styles.flexRow}>
           {/* Left: Logo */}
           <div>
             <a href="/" style={styles.logo}>
               <div style={styles.logoBox}>LOGO</div>
-              {!isMobile && <span style={styles.companyName}>Company</span>}
+              {!isMobile && <span style={styles.companyName}>Mapzy</span>}
             </a>
           </div>
 
